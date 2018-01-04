@@ -1,0 +1,23 @@
+﻿生成启动时间为 2017/12/1 10:23:01。
+     1>项目“F:\OpenCL\NV_OpenCL\OpenCNN-4.0\OpenCNN-4.0\OpenCNN-4.0.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>ClCompile:
+         H:\VS2013\VC\bin\x86_amd64\CL.exe /c /IF:\OpenCL\NV_OpenCL\OpenCL_inc /Zi /nologo /W3 /WX- /O2 /Oi /GL /D WIN32 /D NDEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /Gy /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Release\\" /Fd"x64\Release\vc120.pdb" /Gd /TP /errorReport:prompt Deepface.cpp main.cpp
+         Deepface.cpp
+     1>F:\OpenCV3.1\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>F:\OpenCV3.1\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>F:\OpenCV3.1\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         main.cpp
+     1>F:\OpenCV3.1\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>F:\OpenCV3.1\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>F:\OpenCV3.1\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+       Link:
+         H:\VS2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"F:\OpenCL\NV_OpenCL\OpenCNN-4.0\x64\Release\OpenCNN-4.0.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:F:\OpenCL\NV_OpenCL\OpenCL_lib\x64 OpenCL.lib opencv_world310d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\OpenCL\NV_OpenCL\OpenCNN-4.0\x64\Release\OpenCNN-4.0.pdb" /SUBSYSTEM:CONSOLE /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\OpenCL\NV_OpenCL\OpenCNN-4.0\x64\Release\OpenCNN-4.0.lib" /MACHINE:X64 x64\Release\Deepface.obj
+         x64\Release\main.obj
+         正在生成代码
+         已完成代码的生成
+         OpenCNN-4.0.vcxproj -> F:\OpenCL\NV_OpenCL\OpenCNN-4.0\x64\Release\OpenCNN-4.0.exe
+     1>已完成生成项目“F:\OpenCL\NV_OpenCL\OpenCNN-4.0\OpenCNN-4.0\OpenCNN-4.0.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:03.33
